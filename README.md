@@ -1,2 +1,3 @@
 # resume
-My own online digital resume 
+A css and javascript ui for my own online digital resume 
+
