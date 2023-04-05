@@ -1,3 +1,3 @@
 # resume
-A flutter web ui for my own online digital resume 
+A flutter web ui for online digital resume.
 
